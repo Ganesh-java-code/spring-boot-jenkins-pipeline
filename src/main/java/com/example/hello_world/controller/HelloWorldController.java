@@ -10,7 +10,7 @@ public class HelloWorldController {
 
     @GetMapping("/world")
     public String getMessage(){
-        return "Hello World updated ok bye bye cool cool cool take care!!!";
+        return "Hello World updated ok bye bye cool cool cool take care again bye!!!";
     }
 
 }
