@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: spring-boot-hello
-          image: ganesh/spring-boot-hello:latest
+          image: ganesh141/spring-boot-hello:latest
           ports:
             - containerPort: 9090
 ---
